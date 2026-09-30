@@ -1,16 +1,13 @@
-# React + Vite
+<h1>Face Dictionary</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Face Dictionary is an emotional detection project. Face dictionary detect emotional reaction by analyzing facial expressions</p>
 
-Currently, two official plugins are available:
+<b><a href="https://facedict.netlify.app/">test it out </a></b>
+<hr>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<u><h2>Technology and Frameworks used </h2></u>
+<li>React Js</li>
+<p>Used in developing or Creating the User Interfaces.</p>
+<li>FaceAPi.js</li>
+<p>This is used in generating the API and the models that help analyze the emotion.</p>
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
