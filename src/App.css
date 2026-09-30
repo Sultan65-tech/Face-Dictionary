@@ -1,0 +1,19 @@
+.emotions{
+  position: absolute;
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+top:0;
+bottom: 0;
+left:83%;
+width:20%;
+background: #2c2a2a;
+height: 300vh;
+padding-top: 100px;
+}
+.emotion{
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+}
